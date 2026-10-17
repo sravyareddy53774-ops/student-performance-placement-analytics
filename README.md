@@ -1,5 +1,3 @@
-# Student Performance & Placement Analytics
-
 ## 1. Project Overview
 
 Student Performance & Placement Analytics is an end-to-end data analytics and machine learning project designed to explore the relationship between students' academic performance, technical skills, placement preparation, and placement outcomes.
